@@ -8,11 +8,11 @@ h1 {
   color: white;
 }
 
-h6 {
+h4 {
   text-align: center;
 }
 body {
-  background-color: grey;
+  background-color: rgb(1, 2, 37);
   margin: 20px;
   color: white;
 }
@@ -31,3 +31,15 @@ a:hover {
   bottom: 0;
   width: 100%;
   }
+
+.modal-title {
+  color: black;
+}
+
+#map {
+  text-align: center;
+}
+
+#newlog {
+  text-align: center;
+}

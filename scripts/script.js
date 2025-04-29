@@ -1,16 +1,6 @@
 
-// $(document).ready(function(){
-  
-  
-//     $("#saveParking").on("click", function(){
-  
-//       let statusText = underConstruction("not ready");      
-//       $("#saveParking").text(statusText).prop(   "disabled", true);
-      
-//     });
-     
-//     function underConstruction(status){
-//       return "Not Yet Ready"
-//     };
-//   }
-// );
+const button = document.getElementById('loginButton');
+
+  button.addEventListener('click', () => {
+    button.innerText = button.innerText === 'Login Here!' ? 'Logout' : 'Login Here!';
+  });
