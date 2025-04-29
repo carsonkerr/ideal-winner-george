@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&display=swap');
+
+h1 {
+  font-family: "Anton SC", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  color: white;
+}
+
+h6 {
+  text-align: center;
+}
+body {
+  background-color: grey;
+  margin: 20px;
+  color: white;
+}
+
+li {
+  font-size: 18px;
+  border: dashed 1px black;
+}
+
+a:hover {
+  color: orange;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  }
