@@ -1,0 +1,17 @@
+{ "parkingData" : [
+    {
+        "date": "14 JAN", 
+        "description": "Parked in the visitor lot at 10:25."
+    },
+
+    {
+        "date": "16 JAN", 
+        "description": "Parked in overflow at 10:40."
+    },
+
+    {
+        "date": "21 JAN", 
+        "description": "Parked in the lot across Pine Street and Norton around 10:30."
+    }
+]
+}
