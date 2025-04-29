@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>parkingApp</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="https://public.codepenassets.com/css/normalize-5.0.0.min.css">
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/css/bootstrap.min.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!-- <body> -->
+<!-- 
+ author: Carson Kerr
+-->
+
+  <h1>Carson's Parking Log 🦭 </h1>
+
+<!-- description -->
+<center>
+  <h6>This is a log of my parking experiences in the Spring of 2025 at <a href="https://una.edu/" target="_blank">UNA</a>.</h6>
+</center>
+<p><a href="https://una.edu/map/" target="_blank">Campus Map for Reference</a></p>
+
+<!--Get new parking log input-->
+<form>
+  <label for="dateParked">Date:</label><br>
+  <input id="dateParked" type="date" placeholder="Enter Today's Date"><br>
+
+  <label for="locationParked">Description:</label><br>
+  <!--   <input type="text" id="locationParked"  placeholder="Parked Where?"><br><br> -->
+
+  <textarea id="w3review" name="w3review" rows="4" cols="50">
+</textarea>
+
+  <br>
+  <!--   <input type="submit" value="Save Parking Log"> -->
+
+  <button id="saveParking" class="btn btn-outline-warning">Save Parking Log</button>
+</form>
+
+<br>
+
+<ul class="list-group">
+  <li id="secondLog" class="list-group-item"> <strong>16 JAN.</strong> 10:15 pulled in spot in visitor lot.
+  </li>
+
+  <li class="list-group-item"><strong>14 JAN.</strong> Made the loop at 10:01, parked at Nobles, in office ~10:12. <em>Clear, sunny, chilly day.</em> Spot opened up by time I walked by it
+  </li>
+
+</ul>
+
+<!-- </body> -->
+<br>
+Link to the original <a href="https://codepen.io/carsonkerr/" target="_blank">codepen</a>.
+
+<br>
+<p>Image of Wireframe:</p>
+<img src="https://gist.github.com/user-attachments/assets/8c613529-0719-4a88-9587-e850f8373af3" alt="wireframe" width="400" height="500">
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
