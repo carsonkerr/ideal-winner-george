@@ -32,9 +32,9 @@
 ![linkedin example](https://github.com/user-attachments/assets/750dc2b0-da15-4901-9c7f-9201b8c843ee)
 
 
-- I think it is cool that my improved app turned the logs into cards! Here is an example of the code (w/ link) and a screenshot:
+- I think it is cool that my improved app turned the logs into cards! Here is an example of the code (w/ link) and a screenshot of what it does:
 
-https://github.com/carsonkerr/ideal-winner-george/blob/755e5f55c3aec29272037b62336df7f3ed2369fc/scripts/readParkingData.js#L23C4-L33C8
+https://github.com/carsonkerr/ideal-winner-george/blob/755e5f55c3aec29272037b62336df7f3ed2369fc/scripts/readParkingData.js#L23-L33
 
   
   ![cardExampleNewApp](https://github.com/user-attachments/assets/4581f2da-84e7-46d7-81ec-6b98773fd382)
