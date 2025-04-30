@@ -40,4 +40,4 @@ https://github.com/carsonkerr/ideal-winner-george/blob/755e5f55c3aec29272037b623
   ![cardExampleNewApp](https://github.com/user-attachments/assets/4581f2da-84e7-46d7-81ec-6b98773fd382)
 
   ## Future Ideas
-
+- In the future, it would be cool for the login feature to actually work. On top of that, once there gets to be many logs, sorting and searching features would be helpful.
